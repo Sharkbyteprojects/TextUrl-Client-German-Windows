@@ -6,7 +6,7 @@ An Gui Client of text url for windows in german
 ## Issue List
 Versionen
 
-First Utahraptor: #1
+First Utahraptor: [#1](https://github.com/Sharkbyteprojects/TextUrl-Client-German-Windows/issues/1)
 
 
 ---
